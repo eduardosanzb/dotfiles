@@ -1,6 +1,6 @@
 [user]
-  name = eduardosanzbOptilyz
-  email = eduardo.sanchez@optilyz.com
+  name = Bautista-Eduardo
+  email = Bautista.Eduardo@bcgplatinion.com
 [alias]
   a = add
   ca= commit -a
@@ -11,7 +11,6 @@
   l = checkout -
 [credential]
     helper = osxkeychain
-
 [merge]
 	ff = false
 [pull]
